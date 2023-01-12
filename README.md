@@ -1,6 +1,6 @@
 # Meteo
 
-Applicazione meteo per visualizzare il meteo della tua posizione o di una località
+Applicazione meteo per visualizzare il meteo della tua posizione (localizzazione) o di una località scelta
 
 ## Funzionalità
 
