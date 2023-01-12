@@ -1,16 +1,11 @@
-# weather
+# Meteo
 
-A new Flutter project.
+Applicazione meteo per visualizzare il meteo della tua posizione o di una località
 
-## Getting Started
+## Funzionalità
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funzionalità dell'app: 
+- Visualizzazione meteo posizione attuale
+- Visualizzazione meteo di una località scelta
+- Visualizzazione meteo delle prossime 24 ore
+- Visualizzazione meteo dei prossimi 7 giorni 
